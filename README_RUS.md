@@ -1,4 +1,4 @@
-# Библиотека для работы с матрицами
+# Matrix Library
 
 English readme [here](./README.md)
 
