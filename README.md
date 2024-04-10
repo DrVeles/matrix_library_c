@@ -168,3 +168,14 @@ If the determinant of the matrix is zero, then it does not have an inverse.
 
 The formula to calculate the inverse of matrix is $`A^{-1}=\frac{1} {|A|} × A_*^T`$
 
+## Compilation and testing
+
+`s21_matrix.a` - build a clean library.
+
+### Testing
+
+`test` - run function tests.
+
+`leaks` - check the tested code for leaks.
+
+`gcov_report` - view the code test coverage. 
